@@ -1,0 +1,45 @@
+/*头部样式*/
+.page-header {
+  box-shadow: #62ffe4;
+  background-image: linear-gradient(to right, #2eebff, #c7ff44);
+  margin-top: -60px;
+}
+/*菜单样式*/
+.page-menu {
+  min-height: 650px;
+}
+/*主页面样式*/
+.page-main {
+  margin-top: -15px;
+  margin-left: -100px;
+  width: 100%;
+  min-height: 700px;
+  float: right;
+
+}
+/*logo样式*/
+.img-logo {
+  margin-top: -75px;
+  height: 125px;
+  width: 225px;
+  float: left;
+}
+/*下拉菜单样式*/
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 200px;
+  min-height: 400px;
+  height: 100%;
+  float: left
+}
+/*下拉菜单样式*/
+.el-dropdown-link {
+  margin-top: -10px;
+  margin-left: 1000px;
+  cursor: pointer;
+  color: #000d8d;
+}
+/*下拉菜单字体大小*/
+.el-icon-arrow-down {
+  font-size: 12px;
+}
+
